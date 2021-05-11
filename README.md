@@ -7,3 +7,5 @@ The project is the FERN stack (Firebase, ExpressJS, React, Node) & Ionic to crea
 **hummid**.
 
 Please read the website here for information on the project: https://iamandyie.github.io/hummid/
+
+Visit the project on https://hummid.app/
