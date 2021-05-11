@@ -1,0 +1,8 @@
+{
+  "name": "hummidApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "84b10388"
+}

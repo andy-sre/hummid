@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+
+.header {
+    margin-top: 10%;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: rgba(96, 165, 250, 1);
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.header-other {
+    font-family: 'Noto Sans JP', sans-serif;
+    color: rgba(96, 165, 250, 1);
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.logo {
+    max-width: 500px;
+}
+.logo-header {
+    max-width: 170px;
+}
+.temps {
+    font-size: 25px;
+}
+.power-on {
+    color: #00a03d;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.power-off {
+    color: #ca001a;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+ion-select-settings {
+    width: 100%;
+    justify-content: center;
+}
+
+.align-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+    .header {
+        margin-top: 50%;
+    }
+    .login-form {
+        margin-top: 50%;
+    }
+    .logo {
+        max-width: 300px;
+    }
+    .logo-header {
+        max-width: 170px;
+    }
+    .icon {
+        max-width: 180px;
+        margin: auto;
+    }
+    .weather-icon {
+        max-width: 60%;
+        margin-top: -20%;
+    }
+    .weather-info {
+        font-size: 80%;
+    }
+
+    .heating-icon {
+        max-width: 50px;
+    }
+}
+
+@media only screen and (min-width: 1000px) {
+    .test {
+        max-width: 30%;
+        margin: auto;
+    }
+    .icon {
+        max-width: 180px;
+        margin: auto;
+    }
+    .weather-icon {
+        margin-left: 35%;
+        max-width: 30%;
+    }
+    .weather-info {
+        font-size: 100%;
+    }
+    .weather-text {
+        padding-top: 40px;
+    }
+    .align-center {
+        margin: auto;
+        max-width: 40%;
+    }
+    .desktop-version {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: auto;
+        max-width: 50%;
+    }
+}
+
