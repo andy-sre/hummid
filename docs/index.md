@@ -61,3 +61,5 @@ webview within the app.
 [Week 10 (19/04/21 - 25/04/21)](https://iamandyie.github.io/hummid/week10)
 
 [Week 11 (26/04/2021 - 02/05/2021)](https://iamandyie.github.io/hummid/week11)
+
+[Week 12 (03/05/2021 - 09/05/2021)](https://iamandyie.github.io/hummid/week12)
